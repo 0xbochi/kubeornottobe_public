@@ -1,0 +1,14 @@
+.whoami-page {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+.whoami-page h1 {
+    color: #ff6600;
+}
+
+.whoami-page .content {
+    font-size: 5em;
+    color: #333;
+}
