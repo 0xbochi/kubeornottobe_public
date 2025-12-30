@@ -11,49 +11,6 @@
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 08 Nov 2025 20:55:57 -0500</lastBuildDate>
     <atom:link href="https://kubeornotto.be/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Certification</title>
-      <link>https://kubeornotto.be/tags/certification/</link>
-      <pubDate>Sat, 08 Nov 2025 20:55:57 -0500</pubDate>
-      <guid>https://kubeornotto.be/tags/certification/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Cka</title>
-      <link>https://kubeornotto.be/tags/cka/</link>
-      <pubDate>Sat, 08 Nov 2025 20:55:57 -0500</pubDate>
-      <guid>https://kubeornotto.be/tags/cka/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Devops</title>
-      <link>https://kubeornotto.be/tags/devops/</link>
-      <pubDate>Sat, 08 Nov 2025 20:55:57 -0500</pubDate>
-      <guid>https://kubeornotto.be/tags/devops/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>K8s</title>
-      <link>https://kubeornotto.be/tags/k8s/</link>
-      <pubDate>Sat, 08 Nov 2025 20:55:57 -0500</pubDate>
-      <guid>https://kubeornotto.be/tags/k8s/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Kubernetes</title>
-      <link>https://kubeornotto.be/tags/kubernetes/</link>
-      <pubDate>Sat, 08 Nov 2025 20:55:57 -0500</pubDate>
-      <guid>https://kubeornotto.be/tags/kubernetes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sre</title>
-      <link>https://kubeornotto.be/tags/sre/</link>
-      <pubDate>Sat, 08 Nov 2025 20:55:57 -0500</pubDate>
-      <guid>https://kubeornotto.be/tags/sre/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>

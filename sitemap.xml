@@ -2,73 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kubeornotto.be/categories/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/categories/certification/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/tags/certification/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/tags/cka/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/categories/cncf/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/tags/devops/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/tags/k8s/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://kubeornotto.be/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/categories/kubernetes/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/tags/kubernetes/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/posts/cka-no-fluff-playbook/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/posts/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/tags/sre/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://kubeornotto.be/tags/</loc>
-    <lastmod>2025-11-08T20:55:57-05:00</lastmod>
+    <lastmod>2025-01-20T12:37:13-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -77,7 +12,15 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://kubeornotto.be/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://kubeornotto.be/search/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://kubeornotto.be/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
